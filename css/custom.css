@@ -19,7 +19,7 @@ p{
 }
 
 h2.title-v2 {
-	color: #555;
+	color: #2f2e2e;
 	position: relative;
 	margin-bottom: 30px;
 }
@@ -30,7 +30,7 @@ h2.title-v2:after {
 	height: 2px;
 	content: " ";
 	bottom: -10px;
-	background: #72c02c;
+	background: #c0532c;
 	position: absolute;
 }
 
@@ -56,7 +56,7 @@ h2.title-v2:after {
 
 .content-boxes-v5:hover i {
 	color: #fff;
-	background: #72c02c;
+	background: #c0532c;
 }
 .no-top-space {
 	margin-top: 0 !important;
@@ -118,8 +118,8 @@ h2.title-v2:after {
  transition: all 0.4s ease-in-out;
 }
 
-.g-color-default { color: #72c02c;}
-.color-green { color: #72c02c;}
+.g-color-default { color: #c0532c;}
+.color-green { color: #c0532c;}
 
 
  /*Blog part css */
@@ -140,7 +140,7 @@ h2.title-v2:after {
 }
 
 .news-v1 h3 a:hover {
-  color: #72c02c;
+  color: #c0532c;
 }
 
 .news-v1 p {
@@ -162,7 +162,7 @@ h2.title-v2:after {
 }
 
 .news-v1 .news-v1-info li a:hover {
-  color: #72c02c;
+  color: #c0532c;
   text-decoration: none;
 }
 
@@ -187,7 +187,7 @@ blockquote p {
 	font-weight: 400;
 }
 blockquote:hover {
-	border-color: #72c02c;
+	border-color: #c0532c;
 }
 
 /*Responsive Video*/
@@ -247,8 +247,8 @@ i.icon-custom {
 }
 .rounded-x { border-radius: 50% !important;}
 i.icon-color-u {
-	color: #72c02c;
-	border: solid 1px #72c02c;
+	color: #c0532c;
+	border: solid 1px #c0532c;
 }
 i.icon-line {
 	font-size: 17px;
@@ -287,7 +287,7 @@ i.icon-line {
   width: 30px;
   content: " ";
   position: absolute;
-  background: #72c02c;
+  background: #c0532c;
 }
 
 
@@ -402,7 +402,7 @@ i.icon-line {
 
 .team-v1 li:hover > p:before {
   width: 100%;
-  background: #72c02c;
+  background: #c0532c;
 }
 
 /* Blog CSS  */
@@ -415,7 +415,7 @@ i.icon-line {
 	margin-bottom: 6px;
 }
 .who li i {
-	color: #72c02c;
+	color: #c0532c;
 	font-size: 13px;
 	min-width: 15px;
 	margin-right: 8px;
@@ -491,7 +491,7 @@ i.icon-line {
 	margin: 0 0 -2px 0;
 	padding-bottom: 5px;
 	display: inline-block;
-	border-bottom: 2px solid #72c02c;
+	border-bottom: 2px solid #c0532c;
 }
 
 /*Link List*/
@@ -553,14 +553,14 @@ i.icon-line {
 	margin-top: -10px;
 	margin-left: 550px;
 	margin-bottom: 20px;
-	border-bottom: 2px solid #72c02c;
+	border-bottom: 2px solid #c0532c;
 }
 .line2 {
 	width: 50px;
 	margin-top: 10px;
 	margin-left: 650px;
 	margin-bottom: 20px;
-	border-bottom: 2px solid #72c02c;
+	border-bottom: 2px solid #c0532c;
 }
 /*Button Styles
 ------------------------------------*/
@@ -576,7 +576,7 @@ i.icon-line {
 	font-weight: 400;
 	padding: 6px 13px;
 	position: relative;
-	background: #72c02c;
+	background: #c0532c;
 	white-space: nowrap;
 	display: inline-block;
 	text-decoration: none;
@@ -602,7 +602,7 @@ i.icon-line {
 	border: solid 1px transparent;
 }
 .btn-u.btn-brd {
-	border-color: #72c02c;
+	border-color: #c0532c;
 }
 .btn-u.btn-brd:hover {
 	color: #5fb611;
@@ -660,7 +660,7 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
 }
 .mySlides img{
 	border-radius: 25px;
-	box-shadow: 3px 3px 3px 3px #72c02c;
+	box-shadow: 3px 3px 3px 3px #c0532c;
 }
 
 .slideshow-container {
